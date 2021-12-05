@@ -15,6 +15,6 @@ hello git !
 hello git !
 hello git !
 hello git !
-hello git !
+hello git ! I'm modifying in the master , trying to identify the merge with both add and commit
 hello git !
 hello git !
