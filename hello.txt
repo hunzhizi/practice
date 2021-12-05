@@ -1,6 +1,10 @@
 hello git ! 22222222222222222
 hello git ! 33333333333333
 hello git !
+helladfafo git !
+hello git !
+hello git !
+hello gijjjj`t !
 hello git !
 hello git !
 hello git !
@@ -10,10 +14,7 @@ hello git !
 hello git !
 hello git !
 hello git !
-hello git !
-hello git !
-hello git !
-hello git !
+faef
 hello git !
 hello git ! I'm modifying in the master , trying to identify the merge with both add and commit
 hello git !modifying in the branch!
