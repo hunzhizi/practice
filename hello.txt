@@ -26,3 +26,4 @@ helloafejf git !
 hello git ! I'm modifying in the master , trying to identify the merge with both add and commit
 hello git !modifying in the branch!
 hello git !
+this is the line that i insert casually identifying the pull instruction
