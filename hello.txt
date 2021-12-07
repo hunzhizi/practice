@@ -27,3 +27,4 @@ hello git ! I'm modifying in the master , trying to identify the merge with both
 hello git !modifying in the branch!
 hello git !
 this is the line that i insert casually identifying the pull instruction
+why does  the file not be modified?
